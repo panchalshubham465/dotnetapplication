@@ -184,3 +184,4 @@ make deploy
 - Nov 2020 - New GitHub pipelines & container registry
 - Jun 2020 - Moved to NuGet for the Microsoft.Identity.Web
 - Jan 2020 - Rewritten from scratch
+"# dotnetapplication" 
